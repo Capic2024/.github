@@ -69,3 +69,7 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 <p float="left">
   <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/architecture.jpeg" width="800" />
 </p>
+<br><br>
+
+## 주요기술
+<img src="https://img.shields.io/badge/opencv-FFCA28?style=flat-square&logo=firebase&logoColor=#5C3EE8"/>
