@@ -10,14 +10,15 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 ## 기대 효과
 허가 없이 영상에 노출된 사람들의 신원을 보호함으로써 개인 보호를 강화합니다. <br>
 나아가, 광고, 교육, 의료, 보안 등 여러 분야에서 개인의 사생활을 보호하고, 사회적 이익을 높이는 데에 크게 기여할 것을 기대합니다.
+<br><br>
 
 ## 팀원
 <table>
   <tr> 
-    <td><a href="https://github.com/finenana"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/yuna.png" style="width:50px;"></a></td>
-    <td><a href="https://github.com/sycuuui"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/sy.jpeg" style="width:50px;"></a></td>
-    <td><a href="https://github.com/sengooooo"><img src="https://github.com/MutsaMarket/MutsaMarket-apk/assets/77336664/67df1c19-c0e0-490a-afa8-b8cf97e9bc40" style="width:50px;"></a></td>
-    <td><a href="https://github.com/ljy6712"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/jy.png" style="width:50px;"></a></td>
+    <td><a href="https://github.com/finenana"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/yuna.png" style="width:50rem;"></a></td>
+    <td><a href="https://github.com/sycuuui"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/sy.jpeg" style="width:50rem;"></a></td>
+    <td><a href="https://github.com/sengooooo"><img src="https://github.com/MutsaMarket/MutsaMarket-apk/assets/77336664/67df1c19-c0e0-490a-afa8-b8cf97e9bc40" style="width:50rem;"></a></td>
+    <td><a href="https://github.com/ljy6712"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/jy.png" style="width:50rem;"></a></td>
     
   </tr>
   <tr> 
