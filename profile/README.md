@@ -15,10 +15,10 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 ## 팀원
 <table>
   <tr> 
-    <td><a href="https://github.com/finenana"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/yn.jpeg" style="width:100%;"></a></td>
-    <td><a href="https://github.com/sycuuui"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/sy.jpeg" style="width:100%;"></a></td>
-    <td><a href="https://github.com/sengooooo"><img src="https://github.com/MutsaMarket/MutsaMarket-apk/assets/77336664/67df1c19-c0e0-490a-afa8-b8cf97e9bc40" style="width:100%;"></a></td>
-    <td><a href="https://github.com/ljy6712"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/jy.png" style="width:100%;"></a></td>
+    <td><a href="https://github.com/finenana"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/yn.jpeg" style="width:150px;"></a></td>
+    <td><a href="https://github.com/sycuuui"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/sy.jpeg" style="width:150px;"></a></td>
+    <td><a href="https://github.com/sengooooo"><img src="https://github.com/MutsaMarket/MutsaMarket-apk/assets/77336664/67df1c19-c0e0-490a-afa8-b8cf97e9bc40" style="width:150px;"></a></td>
+    <td><a href="https://github.com/ljy6712"><img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/jy.png" style="width:150px;"></a></td>
     
   </tr>
   <tr> 
