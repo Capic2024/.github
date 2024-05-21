@@ -28,3 +28,37 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
     <td align='center'><strong>이지연</strong></td> 
   </tr>
 </table>
+<br><br>
+
+## 작품 설명
+### 1)시작페이지
+<p float="left">
+  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/start.png" width="300" />
+  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/file.png" width="300" />
+</p>
+
+* 사용자가 모자이크 처리를 원하는 동영상을 선택합니다.
+
+### 2)얼굴추출 페이지
+<p float="left">
+  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/before.png" width="300" />
+  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/mosaicloading.png" width="300" />
+</p>
+
+* 영상에 나오는 인물들 얼굴을 추출하여 보여줍니다.
+* 사용자가 모자이크 처리 제외할 얼굴을 선택합니다.
+* 영상에 나오는 빈도에 따라 많이 나온 순서대로 추천합니다.
+* 선택이 완료되면, 모자이크 처리되는 동안 로딩 페이지를 보여줍니다.
+
+### 3)모자이크 결과 페이지
+<p float="left">
+  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/after.png" width="300" />
+</p>
+
+* 변환된 영상 미리보기를 제공합니다.
+* 변환된 영상을 사용자가 다운로드 받을 수 있습니다.
+
+## 작품구조
+<p float="left">
+  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/architecture.jpeg" width="400" />
+</p>
