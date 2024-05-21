@@ -81,3 +81,4 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 <br><br>
 
 ## 주요기술
+개발 언어: HTML/CSS/JS, Python, Java17 <br>사용 기술: OpenCV, Insightface, YOLOv5, DeepFace, Spring Boot, Flask, Amazon S3
