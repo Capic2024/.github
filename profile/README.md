@@ -38,8 +38,8 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 <br><br>
 
 ## 시연영상 링크
-<strong><a href="https://drive.google.com/file/d/13O_nF0qPKMlHoY94VeWhbGRIJdn8Af98/view?usp=drive_link">시연영상 보러가기</a></strong>
-<strong>영상 용량에 의해 미리보기가 제공되지 않습니다. 다운로드 후 시청 부탁드립니다.</strong>
+<strong><a href="https://drive.google.com/file/d/13O_nF0qPKMlHoY94VeWhbGRIJdn8Af98/view?usp=drive_link">시연영상 보러가기</a></strong><br>
+<strong>영상 용량에 의해 미리보기가 제공되지 않습니다. 다운로드 후 시청 부탁드립니다.</strong><br><br>
 
 ## 작품 설명
 ### 1)시작페이지
