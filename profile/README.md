@@ -58,6 +58,8 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 * 변환된 영상 미리보기를 제공합니다.
 * 변환된 영상을 사용자가 다운로드 받을 수 있습니다.<br>
 
+<br><br>
+
 ## 작품구조
 <p float="left">
   <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/architecture.jpeg" width="500" />
