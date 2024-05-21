@@ -62,5 +62,5 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 
 ## 작품구조
 <p float="left">
-  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/architecture.jpeg" width="500" />
+  <img src="https://github.com/Capic2024/capic-react/blob/main/capic/src/profile/architecture.jpeg" width="800" />
 </p>
