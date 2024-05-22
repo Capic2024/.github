@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BF92FB&height=300&section=header&text=capic&fontSize=50&fontColor=FFF&fontAlignY=40&desc=영상%20자동%20모자이크%20서비스&descAlign=80)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=BF92FB&height=300)
 <br>
 
 ## 작품 개요
@@ -83,3 +82,5 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 
 ## 주요기술
 개발 언어: HTML/CSS/JS, Python, Java17 <br>사용 기술: OpenCV, Insightface, YOLOv5, DeepFace, Spring Boot, Flask, Amazon S3
+<br>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=BF92FB&height=300)
