@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BF92FB&height=300&section=header&text=capic&fontSize=50&fontColor=FFF&fontAlignY=40&desc=영상%20자동%20모자이크%20서비스&descAlign=80)
-<img src="https://capsule-render.vercel.app/api?type=모양&color=BF92FB&height=300&section=footer&type=waving />
+![footer](https://capsule-render.vercel.app/api?section=footer?type=waving&color=BF92FB&height=300&section=footer)
 <br>
 
 ## 작품 개요
