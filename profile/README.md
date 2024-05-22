@@ -5,7 +5,7 @@
 capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으로 모자이크 처리된 동영상을 만들어주는 서비스입니다.<br>
 사용자들은 더욱 자유롭게 자신들의 영상을 공유할 수 있는 환경이 마련되어 다채로운 콘텐츠를 만드는 데에 기여합니다.<br><br>
 <strong><a href="https://drive.google.com/file/d/1ZriO76BU_k8dRH10gX7FgTBp02r9ObVx/view?usp=sharing">시연영상 보러가기</a></strong><br>
-<strong>영상 용량에 의해 미리보기가 제공되지 않습니다. 다운로드 후 시청 부탁드립니다.</strong>
+
 
 <br><br>
 
