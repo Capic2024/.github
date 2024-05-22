@@ -1,4 +1,4 @@
-<img width="917" alt="image" src="https://github.com/Capic2024/.github/assets/127099876/21d89950-f0ed-4694-a5b3-8495a77f347b">![header](https://capsule-render.vercel.app/api?type=waving&color=BF92FB&height=300&section=header&text=capic&fontSize=50&fontColor=FFF&fontAlignY=40&desc=영상%20자동%20모자이크%20서비스&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BF92FB&height=300&section=header&text=capic&fontSize=50&fontColor=FFF&fontAlignY=40&desc=영상%20자동%20모자이크%20서비스&descAlign=80)
 <br>
 
 ## 작품 개요
