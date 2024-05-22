@@ -89,7 +89,8 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Java17](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=JAVA&logoColor=white)
 <br>
-* 사용 기술<br>
+* 사용 기술
+<br>
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Insightface](https://img.shields.io/badge/Insightface-FF6F61.svg?style=for-the-badge)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF.svg?style=for-the-badge)
@@ -97,6 +98,6 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
-
 <br>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=BF92FB&height=300)
