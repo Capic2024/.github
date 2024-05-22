@@ -87,9 +87,8 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Java17](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=JAVA&logoColor=white)
-<br>
-* 사용 기술<br>
 
+* 사용 기술<br>
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Insightface](https://img.shields.io/badge/Insightface-FF6F61.svg?style=for-the-badge)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF.svg?style=for-the-badge)
