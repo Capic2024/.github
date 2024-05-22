@@ -81,6 +81,11 @@ capic은 영상에 등장하는 얼굴을 추출하여 선별하고, 자동으�
 <br><br>
 
 ## 주요기술
-개발 언어: HTML/CSS/JS, Python, Java17 <br>사용 기술: OpenCV, Insightface, YOLOv5, DeepFace, Spring Boot, Flask, Amazon S3
+개발 언어: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Java17](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br>사용 기술: OpenCV, Insightface, YOLOv5, DeepFace, Spring Boot, Flask, Amazon S3
 <br>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=BF92FB&height=300)
